@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'làm vợ Phong :3 ',
     btnYes: 'thi đỗ <33',
     btnNo: 'thi trượt :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Anh có điều gì muốn nói với em ư ??? <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'chúc em thi đỗ NV1 <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
